@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Maylon 😁
+## Olá! Meu nome é Maylon Santos e sou Desenvolvedor Frontend Iniciante 😁
 
  <div>
    <a href="https://github.com/Mayloon-Santos">
