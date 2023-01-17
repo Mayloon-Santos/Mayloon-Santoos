@@ -1,4 +1,4 @@
-## Olá! Meu nome é Maylon Santos e sou Desenvolvedor Frontend Júnior 😁
+## Olá! Meu nome é Maylon Santos e sou Desenvolvedor Frontend 😁
 
 
  <div>
