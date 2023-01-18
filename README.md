@@ -4,8 +4,8 @@
  <div>
   <a href="https://github.com/Mayloon-Santos">
    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayloon-Santoos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maylon-Santoos&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mayloon-Santos&&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mayloon-Santos&&adityaseth777&&show_icons=true&theme=tokyonight"/>
    
 </div>
    
