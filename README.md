@@ -1,8 +1,7 @@
 # 💫 About Me:
-Olá! Meu nome é Maylon Santos e sou Desenvolvedor Frontend 😁<br><br>Atualmente, estou estudando HTML, CSS, JavaScript e planejando avançar para React.js. Paralelamente, estou dedicado ao aprimoramento do meu inglês, por meio de aulas presenciais.
-                Além disso, estou interessado em aprender<br>Figma, para criar designs mais eficientes e ajudar na codificação. Também estou animado para aprender mais sobre
-                TypeScript. <br>
-                Recentemente, adquiri conhecimentos sobre o WordPress, utilizando a poderosa ferramenta Elementor.
+Olá! Meu nome é Maylon Santos e sou Desenvolvedor Frontend 😁<br><br>Atualmente, estou estudando HTML, CSS, JavaScript e planejando avançar para React.js. Paralelamente, estou dedicado ao aprimoramento do meu inglês, por meio de aulas presenciais.<br>
+Além disso, estou interessado em aprender Figma, para criar designs mais eficientes e ajudar na codificação. Também estou animado para aprender mais sobre TypeScript. <br>
+Recentemente, adquiri conhecimentos sobre o WordPress, utilizando a poderosa ferramenta Elementor.
 
 
 ## 🌐 Socials:
